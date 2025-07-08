@@ -1,0 +1,16 @@
+{
+  "name": "unimon-items",
+  "version": "1.0.0",
+  "description": "Unimon items data management",
+  "main": "dist/items.js",
+  "scripts": {
+    "build": "tsc",
+    "convert": "ts-node src/convert-to-json.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "ts-node": "^10.0.0"
+  },
+  "dependencies": {}
+}
