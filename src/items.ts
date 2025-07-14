@@ -1,6 +1,7 @@
 interface Item {
   id: number;
   name: string;
+  weight: number;
   equipable: boolean;
   attackImpact: number;
   defenseImpact: number;
@@ -17,6 +18,7 @@ export const items: Item[] = [
   {
     id: 0,
     name: "Unimon Energy",
+    weight: 0,
     equipable: false,
     attackImpact: 0,
     defenseImpact: 0,
@@ -30,6 +32,7 @@ export const items: Item[] = [
     id: 1,
     name: "Unikey",
     equipable: false,
+    weight: 0,
     attackImpact: 0,
     defenseImpact: 0,
     probabilityImpact: 0,
@@ -42,6 +45,7 @@ export const items: Item[] = [
     id: 2,
     name: "Mint Coupon",
     equipable: false,
+    weight: 0,
     attackImpact: 0,
     defenseImpact: 0,
     probabilityImpact: 0,
@@ -54,6 +58,7 @@ export const items: Item[] = [
     id: 3,
     name: "Uni Scimmy",
     equipable: true,
+    weight: 100,
     attackImpact: 1,
     defenseImpact: -1,
     probabilityImpact: 0,
@@ -66,6 +71,7 @@ export const items: Item[] = [
     id: 4,
     name: "Uniberry",
     equipable: true,
+    weight: 100,
     attackImpact: 0,
     defenseImpact: 0,
     probabilityImpact: 0,
@@ -78,6 +84,7 @@ export const items: Item[] = [
     id: 5,
     name: "Unisocks",
     equipable: true,
+    weight: 100,
     attackImpact: 0,
     defenseImpact: 0,
     probabilityImpact: 0,
@@ -90,6 +97,7 @@ export const items: Item[] = [
     id: 6,
     name: "Full Uni Helm",
     equipable: true,
+    weight: 100,
     attackImpact: 0,
     defenseImpact: 0,
     probabilityImpact: 0,
