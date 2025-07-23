@@ -33,7 +33,7 @@
     "itemType": "REDEEMABLE",
     "maxSupply": 69,
     "description": "A special ball containing UNI tokens that can be redeemed for rewards.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/3.png"
   },
   {
     "id": 4,
@@ -42,7 +42,7 @@
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
     "description": "A pink pouch filled with UNI tokens ready to be claimed.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/4.png"
   },
   {
     "id": 5,
@@ -51,7 +51,7 @@
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
     "description": "A cartridge containing UNI tokens that can be extracted and used.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/5.png"
   },
   {
     "id": 6,
@@ -60,7 +60,7 @@
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
     "description": "A star-shaped token containing CATX that can be redeemed for value.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/6.png"
   },
   {
     "id": 7,
@@ -69,7 +69,7 @@
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
     "description": "A goodie bag from Layer 2 containing WETH rewards.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/0.png"
   },
   {
     "id": 8,
@@ -78,7 +78,7 @@
     "itemType": "REDEEMABLE",
     "maxSupply": 3,
     "description": "Rare Uniswap socks that can be redeemed for WETH.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/8.png"
   },
   {
     "id": 9,
@@ -90,7 +90,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 0,
     "description": "A basic sword made from Swapium that increases attack power.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/9.png"
   },
   {
     "id": 10,
@@ -102,7 +102,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "A small shield made from Swapium that provides basic protection.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/10.png"
   },
   {
     "id": 11,
@@ -114,7 +114,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "A helmet made from Swapium that provides balanced attack and defense.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/11.png"
   },
   {
     "id": 12,
@@ -126,7 +126,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 0,
     "description": "A powerful longsword forged on Layer 2 with enhanced attack capabilities.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/12.png"
   },
   {
     "id": 13,
@@ -138,7 +138,7 @@
     "defenseImpact": 2,
     "probabilityImpact": 0,
     "description": "A sturdy shield crafted on Layer 2 that provides excellent defense.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/13.png"
   },
   {
     "id": 14,
@@ -150,7 +150,7 @@
     "defenseImpact": 2,
     "probabilityImpact": 0,
     "description": "A medium-weight helmet from Layer 2 with good defensive properties.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/14.png"
   },
   {
     "id": 15,
@@ -162,7 +162,7 @@
     "defenseImpact": -1,
     "probabilityImpact": 0,
     "description": "A curved sword with high attack power but reduced defense.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/15.png"
   },
   {
     "id": 16,
@@ -174,7 +174,7 @@
     "defenseImpact": 3,
     "probabilityImpact": 0,
     "description": "A divine shield with exceptional defense but slightly reduced attack.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/16.png"
   },
   {
     "id": 17,
@@ -186,7 +186,7 @@
     "defenseImpact": 3,
     "probabilityImpact": 0,
     "description": "A full coverage helmet providing excellent protection and some attack boost.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/17.png"
   },
   {
     "id": 18,
@@ -198,7 +198,7 @@
     "defenseImpact": 0,
     "probabilityImpact": -10,
     "description": "A high-risk, high-reward blade with massive attack power but reduced luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/18.png"
   },
   {
     "id": 19,
@@ -210,7 +210,7 @@
     "defenseImpact": 5,
     "probabilityImpact": -10,
     "description": "A defensive weapon with high protection but comes with increased risk.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/19.png"
   },
   {
     "id": 20,
@@ -222,7 +222,7 @@
     "defenseImpact": 3,
     "probabilityImpact": -10,
     "description": "Balanced protective gear with good stats but negative probability impact.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/20.png"
   },
   {
     "id": 21,
@@ -234,7 +234,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "Adorable cat ears that provide modest attack and defense bonuses.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/21.png"
   },
   {
     "id": 22,
@@ -246,7 +246,7 @@
     "defenseImpact": 2,
     "probabilityImpact": -5,
     "description": "An ornate helmet with rune trim that provides protection but may bring bad luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/22.png"
   },
   {
     "id": 23,
@@ -258,7 +258,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "A simple straw hat that provides basic protection from the elements.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/23.png"
   },
   {
     "id": 24,
@@ -270,7 +270,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 3,
     "description": "Stylish glasses that improve vision and increase luck in battles.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/24.png"
   },
   {
     "id": 25,
@@ -282,7 +282,7 @@
     "defenseImpact": 0,
     "probabilityImpact": -100,
     "description": "A cursed item that brings extremely bad luck but teaches valuable lessons.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/25.png"
   },
   {
     "id": 26,
@@ -294,7 +294,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "A comfortable saddle that provides stability and minor defensive benefits.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/26.png"
   },
   {
     "id": 27,
@@ -306,7 +306,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 1,
     "description": "A classy fedora that makes you look distinguished and slightly luckier.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/27.png"
   },
   {
     "id": 28,
@@ -318,7 +318,7 @@
     "defenseImpact": 2,
     "probabilityImpact": 5,
     "description": "A pink chain that provides protection and brings good fortune.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/28.png"
   },
   {
     "id": 29,
@@ -330,7 +330,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 3,
     "description": "A mysterious horse head mask that increases your luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/29.png"
   },
   {
     "id": 30,
@@ -342,7 +342,7 @@
     "defenseImpact": 2,
     "probabilityImpact": 2,
     "description": "A magical cloak that provides balanced improvements to all abilities.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/30.png"
   },
   {
     "id": 31,
@@ -354,7 +354,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 11,
     "description": "A green candle that burns with magical energy, boosting your abilities.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/31.png"
   },
   {
     "id": 32,
@@ -366,7 +366,7 @@
     "defenseImpact": 2,
     "probabilityImpact": 22,
     "description": "An energizing drink that boosts all stats and brings excellent luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/32.png"
   },
   {
     "id": 33,
@@ -378,7 +378,7 @@
     "defenseImpact": 0,
     "probabilityImpact": -5,
     "description": "A broken unicorn horn that brings slight misfortune.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/33.png"
   },
   {
     "id": 34,
@@ -390,7 +390,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 1,
     "description": "A basic unicorn horn that provides a small luck boost.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/34.png"
   },
   {
     "id": 35,
@@ -402,7 +402,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 5,
     "description": "An uncommon unicorn horn with moderate luck-enhancing properties.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/35.png"
   },
   {
     "id": 36,
@@ -414,7 +414,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 10,
     "description": "An epic unicorn horn that significantly improves your fortune.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/36.png"
   },
   {
     "id": 37,
@@ -426,7 +426,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 15,
     "description": "A mythic unicorn horn with powerful luck-enhancing magic.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/37.png"
   },
   {
     "id": 38,
@@ -438,7 +438,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 20,
     "description": "A divine unicorn horn blessed with extraordinary luck powers.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/38.png"
   },
   {
     "id": 39,
@@ -450,7 +450,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 25,
     "description": "The ultimate unicorn horn with unmatched luck-granting abilities.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/39.png"
   },
   {
     "id": 40,
@@ -462,7 +462,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 50,
     "description": "A legendary horn from Ginny that brings incredible fortune.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/40.png"
   },
   {
     "id": 41,
@@ -474,7 +474,7 @@
     "defenseImpact": 0,
     "probabilityImpact": -5,
     "description": "A broken horseshoe that brings bad luck instead of good.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/41.png"
   },
   {
     "id": 42,
@@ -486,7 +486,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 11,
     "description": "A lucky horseshoe that brings good fortune and positive energy.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/42.png"
   },
   {
     "id": 43,
@@ -498,7 +498,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 44,
     "description": "A special hook from Uniswap v4 that greatly enhances your luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/43.png"
   },
   {
     "id": 44,
@@ -510,7 +510,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 33,
     "description": "A colorful horseshoe that brings rainbow luck and positive vibes.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/44.png"
   },
   {
     "id": 45,
@@ -522,7 +522,7 @@
     "defenseImpact": 0,
     "probabilityImpact": -25,
     "description": "A mysterious pink powder that boosts attack but brings bad luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/45.png"
   },
   {
     "id": 46,
@@ -534,7 +534,7 @@
     "defenseImpact": 4,
     "probabilityImpact": -25,
     "description": "A tranquilizer that enhances defense but clouds judgment.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/46.png"
   },
   {
     "id": 47,
@@ -546,7 +546,7 @@
     "defenseImpact": 10,
     "probabilityImpact": 100,
     "description": "An extremely rare and powerful consumable from Cerulean City.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/47.png"
   },
   {
     "id": 48,
@@ -558,7 +558,7 @@
     "defenseImpact": 3,
     "probabilityImpact": 3,
     "description": "A balanced consumable that provides modest improvements to all stats.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/48.png"
   },
   {
     "id": 49,
@@ -570,7 +570,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 1,
     "description": "A nutritious fruit that provides small boosts to all abilities.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/49.png"
   },
   {
     "id": 50,
@@ -582,7 +582,7 @@
     "defenseImpact": 2,
     "probabilityImpact": 2,
     "description": "A magical berry that enhances all stats more than a regular Uninana.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/50.png"
   },
   {
     "id": 51,
@@ -594,7 +594,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 10,
     "description": "A potion that promotes growth and brings significant luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/51.png"
   },
   {
     "id": 52,
@@ -606,7 +606,7 @@
     "defenseImpact": 0,
     "probabilityImpact": 10,
     "description": "An elixir from Uniswap Labs that boosts attack and luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/52.png"
   },
   {
     "id": 53,
@@ -618,7 +618,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 10,
     "description": "A flask from the Uni Foundation that enhances defense and fortune.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/53.png"
   },
   {
     "id": 54,
@@ -630,7 +630,7 @@
     "defenseImpact": 1,
     "probabilityImpact": 5,
     "description": "A special brew for UNI delegates that provides balanced stat improvements.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/54.png"
   },
   {
     "id": 55,
@@ -642,7 +642,7 @@
     "defenseImpact": -4,
     "probabilityImpact": 69,
     "description": "A controversial pill that weakens you but brings extraordinary luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/55.png"
   },
   {
     "id": 56,
@@ -654,7 +654,7 @@
     "defenseImpact": -5,
     "probabilityImpact": 0,
     "description": "A potion that greatly increases attack but reduces defense.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/56.png"
   },
   {
     "id": 57,
@@ -666,7 +666,7 @@
     "defenseImpact": 5,
     "probabilityImpact": 0,
     "description": "The founder's glasses that reduce attack but significantly boost defense.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/57.png"
   },
   {
     "id": 58,
@@ -678,6 +678,6 @@
     "defenseImpact": 10,
     "probabilityImpact": -100,
     "description": "A dangerous honeypot that greatly boosts stats but guarantees bad luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/placeholder.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/58.png"
   }
 ]

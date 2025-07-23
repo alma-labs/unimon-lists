@@ -53,7 +53,7 @@ export const items: Item[] = [
     maxSupply: 69,
     description:
       "A special ball containing UNI tokens that can be redeemed for rewards.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/3.png`,
   },
   {
     id: 4,
@@ -62,7 +62,7 @@ export const items: Item[] = [
     itemType: "REDEEMABLE",
     maxSupply: 11,
     description: "A pink pouch filled with UNI tokens ready to be claimed.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/4.png`,
   },
   {
     id: 5,
@@ -72,7 +72,7 @@ export const items: Item[] = [
     maxSupply: 11,
     description:
       "A cartridge containing UNI tokens that can be extracted and used.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/5.png`,
   },
   {
     id: 6,
@@ -82,7 +82,7 @@ export const items: Item[] = [
     maxSupply: 11,
     description:
       "A star-shaped token containing CATX that can be redeemed for value.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/6.png`,
   },
   {
     id: 7,
@@ -91,7 +91,7 @@ export const items: Item[] = [
     itemType: "REDEEMABLE",
     maxSupply: 11,
     description: "A goodie bag from Layer 2 containing WETH rewards.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/0.png`,
   },
   {
     id: 8,
@@ -100,7 +100,7 @@ export const items: Item[] = [
     itemType: "REDEEMABLE",
     maxSupply: 3,
     description: "Rare Uniswap socks that can be redeemed for WETH.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/8.png`,
   },
   {
     id: 9,
@@ -112,7 +112,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: 0,
     description: "A basic sword made from Swapium that increases attack power.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/9.png`,
   },
   {
     id: 10,
@@ -125,7 +125,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "A small shield made from Swapium that provides basic protection.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/10.png`,
   },
   {
     id: 11,
@@ -138,7 +138,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "A helmet made from Swapium that provides balanced attack and defense.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/11.png`,
   },
   {
     id: 12,
@@ -151,7 +151,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "A powerful longsword forged on Layer 2 with enhanced attack capabilities.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/12.png`,
   },
   {
     id: 13,
@@ -164,7 +164,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "A sturdy shield crafted on Layer 2 that provides excellent defense.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/13.png`,
   },
   {
     id: 14,
@@ -177,7 +177,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "A medium-weight helmet from Layer 2 with good defensive properties.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/14.png`,
   },
   {
     id: 15,
@@ -189,7 +189,7 @@ export const items: Item[] = [
     defenseImpact: -1,
     probabilityImpact: 0,
     description: "A curved sword with high attack power but reduced defense.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/15.png`,
   },
   {
     id: 16,
@@ -202,7 +202,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "A divine shield with exceptional defense but slightly reduced attack.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/16.png`,
   },
   {
     id: 17,
@@ -215,7 +215,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "A full coverage helmet providing excellent protection and some attack boost.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/17.png`,
   },
   {
     id: 18,
@@ -228,7 +228,7 @@ export const items: Item[] = [
     probabilityImpact: -10,
     description:
       "A high-risk, high-reward blade with massive attack power but reduced luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/18.png`,
   },
   {
     id: 19,
@@ -241,7 +241,7 @@ export const items: Item[] = [
     probabilityImpact: -10,
     description:
       "A defensive weapon with high protection but comes with increased risk.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/19.png`,
   },
   {
     id: 20,
@@ -254,7 +254,7 @@ export const items: Item[] = [
     probabilityImpact: -10,
     description:
       "Balanced protective gear with good stats but negative probability impact.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/20.png`,
   },
   {
     id: 21,
@@ -267,7 +267,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "Adorable cat ears that provide modest attack and defense bonuses.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/21.png`,
   },
   {
     id: 22,
@@ -280,7 +280,7 @@ export const items: Item[] = [
     probabilityImpact: -5,
     description:
       "An ornate helmet with rune trim that provides protection but may bring bad luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/22.png`,
   },
   {
     id: 23,
@@ -293,7 +293,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "A simple straw hat that provides basic protection from the elements.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/23.png`,
   },
   {
     id: 24,
@@ -306,7 +306,7 @@ export const items: Item[] = [
     probabilityImpact: 3,
     description:
       "Stylish glasses that improve vision and increase luck in battles.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/24.png`,
   },
   {
     id: 25,
@@ -319,7 +319,7 @@ export const items: Item[] = [
     probabilityImpact: -100,
     description:
       "A cursed item that brings extremely bad luck but teaches valuable lessons.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/25.png`,
   },
   {
     id: 26,
@@ -332,7 +332,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "A comfortable saddle that provides stability and minor defensive benefits.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/26.png`,
   },
   {
     id: 27,
@@ -345,7 +345,7 @@ export const items: Item[] = [
     probabilityImpact: 1,
     description:
       "A classy fedora that makes you look distinguished and slightly luckier.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/27.png`,
   },
   {
     id: 28,
@@ -358,7 +358,7 @@ export const items: Item[] = [
     probabilityImpact: 5,
     description:
       "A pink chain that provides protection and brings good fortune.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/28.png`,
   },
   {
     id: 29,
@@ -370,7 +370,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: 3,
     description: "A mysterious horse head mask that increases your luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/29.png`,
   },
   {
     id: 30,
@@ -383,7 +383,7 @@ export const items: Item[] = [
     probabilityImpact: 2,
     description:
       "A magical cloak that provides balanced improvements to all abilities.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/30.png`,
   },
   {
     id: 31,
@@ -396,7 +396,7 @@ export const items: Item[] = [
     probabilityImpact: 11,
     description:
       "A green candle that burns with magical energy, boosting your abilities.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/31.png`,
   },
   {
     id: 32,
@@ -409,7 +409,7 @@ export const items: Item[] = [
     probabilityImpact: 22,
     description:
       "An energizing drink that boosts all stats and brings excellent luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/32.png`,
   },
   {
     id: 33,
@@ -421,7 +421,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: -5,
     description: "A broken unicorn horn that brings slight misfortune.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/33.png`,
   },
   {
     id: 34,
@@ -433,7 +433,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: 1,
     description: "A basic unicorn horn that provides a small luck boost.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/34.png`,
   },
   {
     id: 35,
@@ -446,7 +446,7 @@ export const items: Item[] = [
     probabilityImpact: 5,
     description:
       "An uncommon unicorn horn with moderate luck-enhancing properties.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/35.png`,
   },
   {
     id: 36,
@@ -459,7 +459,7 @@ export const items: Item[] = [
     probabilityImpact: 10,
     description:
       "An epic unicorn horn that significantly improves your fortune.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/36.png`,
   },
   {
     id: 37,
@@ -471,7 +471,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: 15,
     description: "A mythic unicorn horn with powerful luck-enhancing magic.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/37.png`,
   },
   {
     id: 38,
@@ -484,7 +484,7 @@ export const items: Item[] = [
     probabilityImpact: 20,
     description:
       "A divine unicorn horn blessed with extraordinary luck powers.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/38.png`,
   },
   {
     id: 39,
@@ -497,7 +497,7 @@ export const items: Item[] = [
     probabilityImpact: 25,
     description:
       "The ultimate unicorn horn with unmatched luck-granting abilities.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/39.png`,
   },
   {
     id: 40,
@@ -509,7 +509,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: 50,
     description: "A legendary horn from Ginny that brings incredible fortune.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/40.png`,
   },
   {
     id: 41,
@@ -521,7 +521,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: -5,
     description: "A broken horseshoe that brings bad luck instead of good.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/41.png`,
   },
   {
     id: 42,
@@ -534,7 +534,7 @@ export const items: Item[] = [
     probabilityImpact: 11,
     description:
       "A lucky horseshoe that brings good fortune and positive energy.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/42.png`,
   },
   {
     id: 43,
@@ -547,7 +547,7 @@ export const items: Item[] = [
     probabilityImpact: 44,
     description:
       "A special hook from Uniswap v4 that greatly enhances your luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/43.png`,
   },
   {
     id: 44,
@@ -560,7 +560,7 @@ export const items: Item[] = [
     probabilityImpact: 33,
     description:
       "A colorful horseshoe that brings rainbow luck and positive vibes.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/44.png`,
   },
   {
     id: 45,
@@ -573,7 +573,7 @@ export const items: Item[] = [
     probabilityImpact: -25,
     description:
       "A mysterious pink powder that boosts attack but brings bad luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/45.png`,
   },
   {
     id: 46,
@@ -585,7 +585,7 @@ export const items: Item[] = [
     defenseImpact: 4,
     probabilityImpact: -25,
     description: "A tranquilizer that enhances defense but clouds judgment.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/46.png`,
   },
   {
     id: 47,
@@ -598,7 +598,7 @@ export const items: Item[] = [
     probabilityImpact: 100,
     description:
       "An extremely rare and powerful consumable from Cerulean City.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/47.png`,
   },
   {
     id: 48,
@@ -611,7 +611,7 @@ export const items: Item[] = [
     probabilityImpact: 3,
     description:
       "A balanced consumable that provides modest improvements to all stats.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/48.png`,
   },
   {
     id: 49,
@@ -624,7 +624,7 @@ export const items: Item[] = [
     probabilityImpact: 1,
     description:
       "A nutritious fruit that provides small boosts to all abilities.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/49.png`,
   },
   {
     id: 50,
@@ -637,7 +637,7 @@ export const items: Item[] = [
     probabilityImpact: 2,
     description:
       "A magical berry that enhances all stats more than a regular Uninana.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/50.png`,
   },
   {
     id: 51,
@@ -649,7 +649,7 @@ export const items: Item[] = [
     defenseImpact: 1,
     probabilityImpact: 10,
     description: "A potion that promotes growth and brings significant luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/51.png`,
   },
   {
     id: 52,
@@ -661,7 +661,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: 10,
     description: "An elixir from Uniswap Labs that boosts attack and luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/52.png`,
   },
   {
     id: 53,
@@ -674,7 +674,7 @@ export const items: Item[] = [
     probabilityImpact: 10,
     description:
       "A flask from the Uni Foundation that enhances defense and fortune.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/53.png`,
   },
   {
     id: 54,
@@ -687,7 +687,7 @@ export const items: Item[] = [
     probabilityImpact: 5,
     description:
       "A special brew for UNI delegates that provides balanced stat improvements.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/54.png`,
   },
   {
     id: 55,
@@ -700,7 +700,7 @@ export const items: Item[] = [
     probabilityImpact: 69,
     description:
       "A controversial pill that weakens you but brings extraordinary luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/55.png`,
   },
   {
     id: 56,
@@ -712,7 +712,7 @@ export const items: Item[] = [
     defenseImpact: -5,
     probabilityImpact: 0,
     description: "A potion that greatly increases attack but reduces defense.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/56.png`,
   },
   {
     id: 57,
@@ -725,7 +725,7 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description:
       "The founder's glasses that reduce attack but significantly boost defense.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/57.png`,
   },
   {
     id: 58,
@@ -738,6 +738,6 @@ export const items: Item[] = [
     probabilityImpact: -100,
     description:
       "A dangerous honeypot that greatly boosts stats but guarantees bad luck.",
-    image: `${URL_PREFIX}/placeholder.png`,
+    image: `${URL_PREFIX}/58.png`,
   },
 ];
