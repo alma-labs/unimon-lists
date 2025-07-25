@@ -5,7 +5,7 @@
     "weight": 0,
     "itemType": "OTHER",
     "maxSupply": 0,
-    "description": "Pure energy essence that powers up your Unimon and restores their vitality.",
+    "description": "Pure energy essence that evolves your Unimon and can revive fainted Unimon (up to 2x).",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/0.png"
   },
   {
@@ -14,7 +14,7 @@
     "weight": 0,
     "itemType": "OTHER",
     "maxSupply": 0,
-    "description": "A special key that unlocks various features and opportunities in the Unimon universe.",
+    "description": "A special key that unlocks Gachas to get helpful equipment and items. Redeemed in spawn room.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/1.png"
   },
   {
@@ -23,7 +23,7 @@
     "weight": 0,
     "itemType": "OTHER",
     "maxSupply": 0,
-    "description": "A valuable coupon that allows you to mint new Unimon or items.",
+    "description": "A valuable coupon that allows you to mint new Unimon at 50% off.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/2.png"
   },
   {
@@ -41,7 +41,7 @@
     "weight": 10,
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
-    "description": "A pink pouch filled with UNI tokens ready to be claimed.",
+    "description": "A pink pouch filled with UNI tokens that can be redeemed for rewards.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/4.png"
   },
   {
@@ -59,7 +59,7 @@
     "weight": 10,
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
-    "description": "A star-shaped token containing CATX that can be redeemed for value.",
+    "description": "A star-shaped token containing bveCATX that can be redeemed for value.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/6.png"
   },
   {
@@ -179,7 +179,7 @@
   {
     "id": 17,
     "name": "Uni Full Helm",
-    "weight": 50,
+    "weight": 25,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -209,7 +209,7 @@
     "attackImpact": 0,
     "defenseImpact": 5,
     "probabilityImpact": -10,
-    "description": "A defensive weapon with high protection but comes with increased risk.",
+    "description": "A high-risk, high-reward defensive shield with high protection but comes with increased risk.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/19.png"
   },
   {
@@ -221,7 +221,7 @@
     "attackImpact": 3,
     "defenseImpact": 3,
     "probabilityImpact": -10,
-    "description": "Balanced protective gear with good stats but negative probability impact.",
+    "description": "High-risk, high-reward protective gear with good stats but negative probability impact.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/20.png"
   },
   {
@@ -245,7 +245,7 @@
     "attackImpact": 1,
     "defenseImpact": 2,
     "probabilityImpact": -5,
-    "description": "An ornate helmet with rune trim that provides protection but may bring bad luck.",
+    "description": "Free armor trimming, you in?",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/22.png"
   },
   {
@@ -281,7 +281,7 @@
     "attackImpact": 0,
     "defenseImpact": 0,
     "probabilityImpact": -100,
-    "description": "A cursed item that brings extremely bad luck but teaches valuable lessons.",
+    "description": "A cursed item that binds your own Unimon's legs, making them unable to move. Guaranteed loss.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/25.png"
   },
   {
@@ -305,7 +305,7 @@
     "attackImpact": 1,
     "defenseImpact": 0,
     "probabilityImpact": 1,
-    "description": "A classy fedora that makes you look distinguished and slightly luckier.",
+    "description": "A classy fedora that makes you look distinguished and slightly luckier. Said to be worn by the king of Reddit.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/27.png"
   },
   {
@@ -353,7 +353,7 @@
     "attackImpact": 1,
     "defenseImpact": 1,
     "probabilityImpact": 11,
-    "description": "A green candle that burns with magical energy, boosting your abilities.",
+    "description": "A green candle that burns with magical energy, boosting your abilities & luck.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/31.png"
   },
   {
@@ -461,7 +461,7 @@
     "attackImpact": 0,
     "defenseImpact": 0,
     "probabilityImpact": 50,
-    "description": "A legendary horn from Ginny that brings incredible fortune.",
+    "description": "A legendary horn from Talladega 500. If you don't know, don't ask.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/40.png"
   },
   {
@@ -533,7 +533,7 @@
     "attackImpact": 0,
     "defenseImpact": 4,
     "probabilityImpact": -25,
-    "description": "A tranquilizer that enhances defense but clouds judgment.",
+    "description": "A tranquilizer that enhances defense but clouds judgment & reduces luck.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/46.png"
   },
   {
@@ -545,7 +545,7 @@
     "attackImpact": 10,
     "defenseImpact": 10,
     "probabilityImpact": 100,
-    "description": "An extremely rare and powerful consumable from Cerulean City.",
+    "description": "Imagine ripping one of these in Uniland. Guaranteed win.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/47.png"
   },
   {
@@ -557,7 +557,7 @@
     "attackImpact": 3,
     "defenseImpact": 3,
     "probabilityImpact": 3,
-    "description": "A balanced consumable that provides modest improvements to all stats.",
+    "description": "A balanced ciggy that provides modest improvements to all stats.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/48.png"
   },
   {
@@ -569,7 +569,7 @@
     "attackImpact": 1,
     "defenseImpact": 1,
     "probabilityImpact": 1,
-    "description": "A nutritious fruit that provides small boosts to all abilities.",
+    "description": "A nutritious fruit that provides small boosts to all abilities & luck.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/49.png"
   },
   {
@@ -581,7 +581,7 @@
     "attackImpact": 2,
     "defenseImpact": 2,
     "probabilityImpact": 2,
-    "description": "A magical berry that enhances all stats more than a regular Uninana.",
+    "description": "A magical berry that enhances all stats & luck.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/50.png"
   },
   {
@@ -629,7 +629,7 @@
     "attackImpact": 1,
     "defenseImpact": 1,
     "probabilityImpact": 5,
-    "description": "A special brew for UNI delegates that provides balanced stat improvements.",
+    "description": "A special brew for UNI delegates that provides balanced stat improvements & luck.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/54.png"
   },
   {
@@ -677,7 +677,7 @@
     "attackImpact": 10,
     "defenseImpact": 10,
     "probabilityImpact": -100,
-    "description": "A dangerous honeypot that greatly boosts stats but guarantees bad luck.",
+    "description": "A dangerous honeypot that greatly boosts stats but guarantees a loss. Don't fall for it.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/58.png"
   }
 ]

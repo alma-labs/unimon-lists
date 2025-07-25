@@ -22,7 +22,7 @@ export const items: Item[] = [
     itemType: "OTHER",
     maxSupply: 0,
     description:
-      "Pure energy essence that powers up your Unimon and restores their vitality.",
+      "Pure energy essence that evolves your Unimon and can revive fainted Unimon (up to 2x).",
     image: `${URL_PREFIX}/0.png`,
   },
   {
@@ -32,7 +32,7 @@ export const items: Item[] = [
     itemType: "OTHER",
     maxSupply: 0,
     description:
-      "A special key that unlocks various features and opportunities in the Unimon universe.",
+      "A special key that unlocks Gachas to get helpful equipment and items. Redeemed in spawn room.",
     image: `${URL_PREFIX}/1.png`,
   },
   {
@@ -42,7 +42,7 @@ export const items: Item[] = [
     itemType: "OTHER",
     maxSupply: 0,
     description:
-      "A valuable coupon that allows you to mint new Unimon or items.",
+      "A valuable coupon that allows you to mint new Unimon at 50% off.",
     image: `${URL_PREFIX}/2.png`,
   },
   {
@@ -61,7 +61,8 @@ export const items: Item[] = [
     weight: 10,
     itemType: "REDEEMABLE",
     maxSupply: 11,
-    description: "A pink pouch filled with UNI tokens ready to be claimed.",
+    description:
+      "A pink pouch filled with UNI tokens that can be redeemed for rewards.",
     image: `${URL_PREFIX}/4.png`,
   },
   {
@@ -81,7 +82,7 @@ export const items: Item[] = [
     itemType: "REDEEMABLE",
     maxSupply: 11,
     description:
-      "A star-shaped token containing CATX that can be redeemed for value.",
+      "A star-shaped token containing bveCATX that can be redeemed for value.",
     image: `${URL_PREFIX}/6.png`,
   },
   {
@@ -207,7 +208,7 @@ export const items: Item[] = [
   {
     id: 17,
     name: "Uni Full Helm",
-    weight: 50,
+    weight: 25,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -240,7 +241,7 @@ export const items: Item[] = [
     defenseImpact: 5,
     probabilityImpact: -10,
     description:
-      "A defensive weapon with high protection but comes with increased risk.",
+      "A high-risk, high-reward defensive shield with high protection but comes with increased risk.",
     image: `${URL_PREFIX}/19.png`,
   },
   {
@@ -253,7 +254,7 @@ export const items: Item[] = [
     defenseImpact: 3,
     probabilityImpact: -10,
     description:
-      "Balanced protective gear with good stats but negative probability impact.",
+      "High-risk, high-reward protective gear with good stats but negative probability impact.",
     image: `${URL_PREFIX}/20.png`,
   },
   {
@@ -278,8 +279,7 @@ export const items: Item[] = [
     attackImpact: 1,
     defenseImpact: 2,
     probabilityImpact: -5,
-    description:
-      "An ornate helmet with rune trim that provides protection but may bring bad luck.",
+    description: "Free armor trimming, you in?",
     image: `${URL_PREFIX}/22.png`,
   },
   {
@@ -318,7 +318,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: -100,
     description:
-      "A cursed item that brings extremely bad luck but teaches valuable lessons.",
+      "A cursed item that binds your own Unimon's legs, making them unable to move. Guaranteed loss.",
     image: `${URL_PREFIX}/25.png`,
   },
   {
@@ -344,7 +344,7 @@ export const items: Item[] = [
     defenseImpact: 0,
     probabilityImpact: 1,
     description:
-      "A classy fedora that makes you look distinguished and slightly luckier.",
+      "A classy fedora that makes you look distinguished and slightly luckier. Said to be worn by the king of Reddit.",
     image: `${URL_PREFIX}/27.png`,
   },
   {
@@ -395,7 +395,7 @@ export const items: Item[] = [
     defenseImpact: 1,
     probabilityImpact: 11,
     description:
-      "A green candle that burns with magical energy, boosting your abilities.",
+      "A green candle that burns with magical energy, boosting your abilities & luck.",
     image: `${URL_PREFIX}/31.png`,
   },
   {
@@ -508,7 +508,8 @@ export const items: Item[] = [
     attackImpact: 0,
     defenseImpact: 0,
     probabilityImpact: 50,
-    description: "A legendary horn from Ginny that brings incredible fortune.",
+    description:
+      "A legendary horn from Talladega 500. If you don't know, don't ask.",
     image: `${URL_PREFIX}/40.png`,
   },
   {
@@ -584,7 +585,8 @@ export const items: Item[] = [
     attackImpact: 0,
     defenseImpact: 4,
     probabilityImpact: -25,
-    description: "A tranquilizer that enhances defense but clouds judgment.",
+    description:
+      "A tranquilizer that enhances defense but clouds judgment & reduces luck.",
     image: `${URL_PREFIX}/46.png`,
   },
   {
@@ -596,8 +598,7 @@ export const items: Item[] = [
     attackImpact: 10,
     defenseImpact: 10,
     probabilityImpact: 100,
-    description:
-      "An extremely rare and powerful consumable from Cerulean City.",
+    description: "Imagine ripping one of these in Uniland. Guaranteed win.",
     image: `${URL_PREFIX}/47.png`,
   },
   {
@@ -610,7 +611,7 @@ export const items: Item[] = [
     defenseImpact: 3,
     probabilityImpact: 3,
     description:
-      "A balanced consumable that provides modest improvements to all stats.",
+      "A balanced ciggy that provides modest improvements to all stats.",
     image: `${URL_PREFIX}/48.png`,
   },
   {
@@ -623,7 +624,7 @@ export const items: Item[] = [
     defenseImpact: 1,
     probabilityImpact: 1,
     description:
-      "A nutritious fruit that provides small boosts to all abilities.",
+      "A nutritious fruit that provides small boosts to all abilities & luck.",
     image: `${URL_PREFIX}/49.png`,
   },
   {
@@ -635,8 +636,7 @@ export const items: Item[] = [
     attackImpact: 2,
     defenseImpact: 2,
     probabilityImpact: 2,
-    description:
-      "A magical berry that enhances all stats more than a regular Uninana.",
+    description: "A magical berry that enhances all stats & luck.",
     image: `${URL_PREFIX}/50.png`,
   },
   {
@@ -686,7 +686,7 @@ export const items: Item[] = [
     defenseImpact: 1,
     probabilityImpact: 5,
     description:
-      "A special brew for UNI delegates that provides balanced stat improvements.",
+      "A special brew for UNI delegates that provides balanced stat improvements & luck.",
     image: `${URL_PREFIX}/54.png`,
   },
   {
@@ -737,7 +737,7 @@ export const items: Item[] = [
     defenseImpact: 10,
     probabilityImpact: -100,
     description:
-      "A dangerous honeypot that greatly boosts stats but guarantees bad luck.",
+      "A dangerous honeypot that greatly boosts stats but guarantees a loss. Don't fall for it.",
     image: `${URL_PREFIX}/58.png`,
   },
 ];
