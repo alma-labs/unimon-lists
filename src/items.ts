@@ -92,7 +92,7 @@ export const items: Item[] = [
     itemType: "REDEEMABLE",
     maxSupply: 11,
     description: "A goodie bag from Layer 2 containing WETH rewards.",
-    image: `${URL_PREFIX}/0.png`,
+    image: `${URL_PREFIX}/7.png`,
   },
   {
     id: 8,
