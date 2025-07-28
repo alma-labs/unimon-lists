@@ -55,11 +55,11 @@
   },
   {
     "id": 6,
-    "name": "Catex Star (CATX)",
+    "name": "Trainer Badge (UNI)",
     "weight": 10,
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
-    "description": "A star-shaped token containing bveCATX that can be redeemed for value.",
+    "description": "A trainer badge containing UNI tokens that can be redeemed at the general store.",
     "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/6.png"
   },
   {

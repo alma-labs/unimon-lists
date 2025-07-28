@@ -77,12 +77,12 @@ export const items: Item[] = [
   },
   {
     id: 6,
-    name: "Catex Star (CATX)",
+    name: "Trainer Badge (UNI)",
     weight: 10,
     itemType: "REDEEMABLE",
     maxSupply: 11,
     description:
-      "A star-shaped token containing bveCATX that can be redeemed for value.",
+      "A trainer badge containing UNI tokens that can be redeemed at the general store.",
     image: `${URL_PREFIX}/6.png`,
   },
   {
