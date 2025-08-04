@@ -58,7 +58,7 @@ export const items: Item[] = [
   {
     id: 4,
     name: "Pink Pouch (UNI)",
-    weight: 10,
+    weight: 20,
     itemType: "REDEEMABLE",
     maxSupply: 11,
     description:
@@ -68,7 +68,7 @@ export const items: Item[] = [
   {
     id: 5,
     name: "Uni Cartridge (UNI)",
-    weight: 10,
+    weight: 20,
     itemType: "REDEEMABLE",
     maxSupply: 11,
     description:
@@ -78,7 +78,7 @@ export const items: Item[] = [
   {
     id: 6,
     name: "Trainer Badge (UNI)",
-    weight: 10,
+    weight: 20,
     itemType: "REDEEMABLE",
     maxSupply: 11,
     description:
@@ -97,7 +97,7 @@ export const items: Item[] = [
   {
     id: 8,
     name: "Unisocks (WETH)",
-    weight: 3,
+    weight: 5,
     itemType: "REDEEMABLE",
     maxSupply: 3,
     description: "Rare Uniswap socks that can be redeemed for WETH.",
@@ -106,7 +106,7 @@ export const items: Item[] = [
   {
     id: 9,
     name: "Swapium Short Sword",
-    weight: 1000,
+    weight: 500,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -118,7 +118,7 @@ export const items: Item[] = [
   {
     id: 10,
     name: "Swapium Buckler",
-    weight: 1000,
+    weight: 500,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 0,
@@ -131,7 +131,7 @@ export const items: Item[] = [
   {
     id: 11,
     name: "Swapium Helm",
-    weight: 1000,
+    weight: 400,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -144,7 +144,7 @@ export const items: Item[] = [
   {
     id: 12,
     name: "L2 Longsword",
-    weight: 500,
+    weight: 300,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 2,
@@ -157,7 +157,7 @@ export const items: Item[] = [
   {
     id: 13,
     name: "L2 Shield",
-    weight: 500,
+    weight: 300,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 0,
@@ -170,7 +170,7 @@ export const items: Item[] = [
   {
     id: 14,
     name: "L2 Medium Helm",
-    weight: 500,
+    weight: 250,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -208,7 +208,7 @@ export const items: Item[] = [
   {
     id: 17,
     name: "Uni Full Helm",
-    weight: 25,
+    weight: 40,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -260,7 +260,7 @@ export const items: Item[] = [
   {
     id: 21,
     name: "Catex Ears",
-    weight: 250,
+    weight: 25,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -285,7 +285,7 @@ export const items: Item[] = [
   {
     id: 23,
     name: "Straw Hat",
-    weight: 1000,
+    weight: 300,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 0,
@@ -298,7 +298,7 @@ export const items: Item[] = [
   {
     id: 24,
     name: "Mog Glasses",
-    weight: 500,
+    weight: 300,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -324,7 +324,7 @@ export const items: Item[] = [
   {
     id: 26,
     name: "Uni Saddle",
-    weight: 1000,
+    weight: 300,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 0,
@@ -337,7 +337,7 @@ export const items: Item[] = [
   {
     id: 27,
     name: "Fedora",
-    weight: 1000,
+    weight: 300,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -363,7 +363,7 @@ export const items: Item[] = [
   {
     id: 29,
     name: "Horse Head",
-    weight: 500,
+    weight: 300,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 0,
@@ -375,7 +375,7 @@ export const items: Item[] = [
   {
     id: 30,
     name: "Unicloak",
-    weight: 10,
+    weight: 30,
     itemType: "EQUIPABLE",
     maxSupply: 0,
     attackImpact: 2,
@@ -426,7 +426,7 @@ export const items: Item[] = [
   {
     id: 34,
     name: "Common Horn",
-    weight: 750,
+    weight: 500,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 0,
@@ -438,7 +438,7 @@ export const items: Item[] = [
   {
     id: 35,
     name: "Uncommon Horn",
-    weight: 500,
+    weight: 300,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 0,
@@ -502,7 +502,7 @@ export const items: Item[] = [
   {
     id: 40,
     name: "Ginny Horn",
-    weight: 3,
+    weight: 5,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 0,
@@ -617,7 +617,7 @@ export const items: Item[] = [
   {
     id: 49,
     name: "Uninana",
-    weight: 1000,
+    weight: 500,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -630,7 +630,7 @@ export const items: Item[] = [
   {
     id: 50,
     name: "Uniberry",
-    weight: 1000,
+    weight: 500,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 2,
@@ -642,7 +642,7 @@ export const items: Item[] = [
   {
     id: 51,
     name: "Uniswap Growth Potion",
-    weight: 500,
+    weight: 250,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -654,7 +654,7 @@ export const items: Item[] = [
   {
     id: 52,
     name: "Uniswap Labs Elixir",
-    weight: 500,
+    weight: 250,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -666,7 +666,7 @@ export const items: Item[] = [
   {
     id: 53,
     name: "Uni Foundation Flask",
-    weight: 500,
+    weight: 250,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 0,
@@ -679,7 +679,7 @@ export const items: Item[] = [
   {
     id: 54,
     name: "UNI Delegate Brew",
-    weight: 500,
+    weight: 250,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 1,
@@ -705,7 +705,7 @@ export const items: Item[] = [
   {
     id: 56,
     name: "Liquidity Potion",
-    weight: 10,
+    weight: 25,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: 5,
@@ -717,7 +717,7 @@ export const items: Item[] = [
   {
     id: 57,
     name: "Hayden Adams' Glasses",
-    weight: 10,
+    weight: 25,
     itemType: "CONSUMABLE",
     maxSupply: 0,
     attackImpact: -5,

@@ -38,7 +38,7 @@
   {
     "id": 4,
     "name": "Pink Pouch (UNI)",
-    "weight": 10,
+    "weight": 20,
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
     "description": "A pink pouch filled with UNI tokens that can be redeemed for rewards.",
@@ -47,7 +47,7 @@
   {
     "id": 5,
     "name": "Uni Cartridge (UNI)",
-    "weight": 10,
+    "weight": 20,
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
     "description": "A cartridge containing UNI tokens that can be extracted and used.",
@@ -56,7 +56,7 @@
   {
     "id": 6,
     "name": "Trainer Badge (UNI)",
-    "weight": 10,
+    "weight": 20,
     "itemType": "REDEEMABLE",
     "maxSupply": 11,
     "description": "A trainer badge containing UNI tokens that can be redeemed at the general store.",
@@ -74,7 +74,7 @@
   {
     "id": 8,
     "name": "Unisocks (WETH)",
-    "weight": 3,
+    "weight": 5,
     "itemType": "REDEEMABLE",
     "maxSupply": 3,
     "description": "Rare Uniswap socks that can be redeemed for WETH.",
@@ -83,7 +83,7 @@
   {
     "id": 9,
     "name": "Swapium Short Sword",
-    "weight": 1000,
+    "weight": 500,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -95,7 +95,7 @@
   {
     "id": 10,
     "name": "Swapium Buckler",
-    "weight": 1000,
+    "weight": 500,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 0,
@@ -107,7 +107,7 @@
   {
     "id": 11,
     "name": "Swapium Helm",
-    "weight": 1000,
+    "weight": 400,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -119,7 +119,7 @@
   {
     "id": 12,
     "name": "L2 Longsword",
-    "weight": 500,
+    "weight": 300,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 2,
@@ -131,7 +131,7 @@
   {
     "id": 13,
     "name": "L2 Shield",
-    "weight": 500,
+    "weight": 300,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 0,
@@ -143,7 +143,7 @@
   {
     "id": 14,
     "name": "L2 Medium Helm",
-    "weight": 500,
+    "weight": 250,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -179,7 +179,7 @@
   {
     "id": 17,
     "name": "Uni Full Helm",
-    "weight": 25,
+    "weight": 40,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -227,7 +227,7 @@
   {
     "id": 21,
     "name": "Catex Ears",
-    "weight": 250,
+    "weight": 25,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -251,7 +251,7 @@
   {
     "id": 23,
     "name": "Straw Hat",
-    "weight": 1000,
+    "weight": 300,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 0,
@@ -263,7 +263,7 @@
   {
     "id": 24,
     "name": "Mog Glasses",
-    "weight": 500,
+    "weight": 300,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -287,7 +287,7 @@
   {
     "id": 26,
     "name": "Uni Saddle",
-    "weight": 1000,
+    "weight": 300,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 0,
@@ -299,7 +299,7 @@
   {
     "id": 27,
     "name": "Fedora",
-    "weight": 1000,
+    "weight": 300,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -323,7 +323,7 @@
   {
     "id": 29,
     "name": "Horse Head",
-    "weight": 500,
+    "weight": 300,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 0,
@@ -335,7 +335,7 @@
   {
     "id": 30,
     "name": "Unicloak",
-    "weight": 10,
+    "weight": 30,
     "itemType": "EQUIPABLE",
     "maxSupply": 0,
     "attackImpact": 2,
@@ -383,7 +383,7 @@
   {
     "id": 34,
     "name": "Common Horn",
-    "weight": 750,
+    "weight": 500,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 0,
@@ -395,7 +395,7 @@
   {
     "id": 35,
     "name": "Uncommon Horn",
-    "weight": 500,
+    "weight": 300,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 0,
@@ -455,7 +455,7 @@
   {
     "id": 40,
     "name": "Ginny Horn",
-    "weight": 3,
+    "weight": 5,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 0,
@@ -563,7 +563,7 @@
   {
     "id": 49,
     "name": "Uninana",
-    "weight": 1000,
+    "weight": 500,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -575,7 +575,7 @@
   {
     "id": 50,
     "name": "Uniberry",
-    "weight": 1000,
+    "weight": 500,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 2,
@@ -587,7 +587,7 @@
   {
     "id": 51,
     "name": "Uniswap Growth Potion",
-    "weight": 500,
+    "weight": 250,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -599,7 +599,7 @@
   {
     "id": 52,
     "name": "Uniswap Labs Elixir",
-    "weight": 500,
+    "weight": 250,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -611,7 +611,7 @@
   {
     "id": 53,
     "name": "Uni Foundation Flask",
-    "weight": 500,
+    "weight": 250,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 0,
@@ -623,7 +623,7 @@
   {
     "id": 54,
     "name": "UNI Delegate Brew",
-    "weight": 500,
+    "weight": 250,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 1,
@@ -647,7 +647,7 @@
   {
     "id": 56,
     "name": "Liquidity Potion",
-    "weight": 10,
+    "weight": 25,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": 5,
@@ -659,7 +659,7 @@
   {
     "id": 57,
     "name": "Hayden Adams' Glasses",
-    "weight": 10,
+    "weight": 25,
     "itemType": "CONSUMABLE",
     "maxSupply": 0,
     "attackImpact": -5,
