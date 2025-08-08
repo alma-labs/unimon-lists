@@ -9,6 +9,7 @@ interface Item {
   probabilityImpact?: number;
   description: string;
   image: string;
+  moves?: string[];
 }
 
 const URL_PREFIX =
@@ -114,6 +115,12 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description: "A basic sword made from Swapium that increases attack power.",
     image: `${URL_PREFIX}/9.png`,
+    moves: [
+      "Swap Slash",
+      "Short Stab",
+      "Swapium Strike",
+      "Blade Exchange",
+    ],
   },
   {
     id: 10,
@@ -127,6 +134,12 @@ export const items: Item[] = [
     description:
       "A small shield made from Swapium that provides basic protection.",
     image: `${URL_PREFIX}/10.png`,
+    moves: [
+      "Buckler Bash",
+      "Swap Bash",
+      "Shield Rush",
+      "Guard Break",
+    ],
   },
   {
     id: 11,
@@ -140,6 +153,12 @@ export const items: Item[] = [
     description:
       "A helmet made from Swapium that provides balanced attack and defense.",
     image: `${URL_PREFIX}/11.png`,
+    moves: [
+      "Helm Headbutt",
+      "Swap Head Smash",
+      "Helm Ram",
+      "Crown Crush",
+    ],
   },
   {
     id: 12,
@@ -153,6 +172,12 @@ export const items: Item[] = [
     description:
       "A powerful longsword forged on Layer 2 with enhanced attack capabilities.",
     image: `${URL_PREFIX}/12.png`,
+    moves: [
+      "Layered Lunge",
+      "L2 Long Cut",
+      "Second Layer Slash",
+      "Chainbreaker",
+    ],
   },
   {
     id: 13,
@@ -166,6 +191,12 @@ export const items: Item[] = [
     description:
       "A sturdy shield crafted on Layer 2 that provides excellent defense.",
     image: `${URL_PREFIX}/13.png`,
+    moves: [
+      "Layered Bash",
+      "L2 Shield Slam",
+      "Wall of Two",
+      "Reflective Ram",
+    ],
   },
   {
     id: 14,
@@ -179,6 +210,12 @@ export const items: Item[] = [
     description:
       "A medium-weight helmet from Layer 2 with good defensive properties.",
     image: `${URL_PREFIX}/14.png`,
+    moves: [
+      "Layered Headbutt",
+      "L2 Ram",
+      "Medium Head Smash",
+      "Helm Spike",
+    ],
   },
   {
     id: 15,
@@ -191,6 +228,12 @@ export const items: Item[] = [
     probabilityImpact: 0,
     description: "A curved sword with high attack power but reduced defense.",
     image: `${URL_PREFIX}/15.png`,
+    moves: [
+      "Scimmy Slice",
+      "Uni Slash",
+      "Curved Cut",
+      "Pink Riposte",
+    ],
   },
   {
     id: 16,
@@ -204,6 +247,12 @@ export const items: Item[] = [
     description:
       "A divine shield with exceptional defense but slightly reduced attack.",
     image: `${URL_PREFIX}/16.png`,
+    moves: [
+      "Divine Bash",
+      "Godshield Slam",
+      "Uni Aegis Crush",
+      "Holy Parry",
+    ],
   },
   {
     id: 17,
@@ -217,6 +266,12 @@ export const items: Item[] = [
     description:
       "A full coverage helmet providing excellent protection and some attack boost.",
     image: `${URL_PREFIX}/17.png`,
+    moves: [
+      "Full-Helm Headbutt",
+      "Uni Skull Crash",
+      "Visor Smash",
+      "Ringing Ram",
+    ],
   },
   {
     id: 18,
@@ -230,6 +285,12 @@ export const items: Item[] = [
     description:
       "A high-risk, high-reward blade with massive attack power but reduced luck.",
     image: `${URL_PREFIX}/18.png`,
+    moves: [
+      "Margin Slash",
+      "Lever Lunge",
+      "Liquidation Cut",
+      "Risky Rip",
+    ],
   },
   {
     id: 19,
@@ -243,6 +304,12 @@ export const items: Item[] = [
     description:
       "A high-risk, high-reward defensive shield with high protection but comes with increased risk.",
     image: `${URL_PREFIX}/19.png`,
+    moves: [
+      "Margin Bash",
+      "Lever Block Break",
+      "Collateral Crush",
+      "Risk Off Ram",
+    ],
   },
   {
     id: 20,
@@ -256,6 +323,12 @@ export const items: Item[] = [
     description:
       "High-risk, high-reward protective gear with good stats but negative probability impact.",
     image: `${URL_PREFIX}/20.png`,
+    moves: [
+      "Hedged Hit",
+      "Balanced Bash",
+      "Guarded Gash",
+      "Risk Pair Slam",
+    ],
   },
   {
     id: 21,
@@ -269,6 +342,12 @@ export const items: Item[] = [
     description:
       "Adorable cat ears that provide modest attack and defense bonuses.",
     image: `${URL_PREFIX}/21.png`,
+    moves: [
+      "Cat Claw",
+      "Catex Pounce",
+      "Ear Flick Strike",
+      "Whisker Whip",
+    ],
   },
   {
     id: 22,
@@ -281,6 +360,12 @@ export const items: Item[] = [
     probabilityImpact: -5,
     description: "Free armor trimming, you in?",
     image: `${URL_PREFIX}/22.png`,
+    moves: [
+      "Rune Headsmash",
+      "Trim Edge Strike",
+      "Rune Ram",
+      "Sigil Slam",
+    ],
   },
   {
     id: 23,
@@ -294,6 +379,12 @@ export const items: Item[] = [
     description:
       "A simple straw hat that provides basic protection from the elements.",
     image: `${URL_PREFIX}/23.png`,
+    moves: [
+      "Straw Sweep",
+      "Haymaker",
+      "Brim Bash",
+      "Weave Whip",
+    ],
   },
   {
     id: 24,
@@ -307,6 +398,12 @@ export const items: Item[] = [
     description:
       "Stylish glasses that improve vision and increase luck in battles.",
     image: `${URL_PREFIX}/24.png`,
+    moves: [
+      "Mog Gaze",
+      "Lens Lash",
+      "Focus Beam",
+      "Goggles Grind",
+    ],
   },
   {
     id: 25,
@@ -320,6 +417,12 @@ export const items: Item[] = [
     description:
       "A cursed item that binds your own Unimon's legs, making them unable to move. Guaranteed loss.",
     image: `${URL_PREFIX}/25.png`,
+    moves: [
+      "Self-Sabotage",
+      "Leg Bind",
+      "Guaranteed Throw",
+      "Cursed Tackle",
+    ],
   },
   {
     id: 26,
@@ -333,6 +436,12 @@ export const items: Item[] = [
     description:
       "A comfortable saddle that provides stability and minor defensive benefits.",
     image: `${URL_PREFIX}/26.png`,
+    moves: [
+      "Saddle Slam",
+      "Mount Kick",
+      "Stirrup Strike",
+      "Gallop Gore",
+    ],
   },
   {
     id: 27,
@@ -346,6 +455,12 @@ export const items: Item[] = [
     description:
       "A classy fedora that makes you look distinguished and slightly luckier. Said to be worn by the king of Reddit.",
     image: `${URL_PREFIX}/27.png`,
+    moves: [
+      "Brim Slice",
+      "Dapper Jab",
+      "Tip Strike",
+      "Gentleman's Riposte",
+    ],
   },
   {
     id: 28,
@@ -359,6 +474,12 @@ export const items: Item[] = [
     description:
       "A pink chain that provides protection and brings good fortune.",
     image: `${URL_PREFIX}/28.png`,
+    moves: [
+      "Chain Whip",
+      "Pink Link Lash",
+      "Chainbreaker",
+      "Rose Bind",
+    ],
   },
   {
     id: 29,
@@ -371,6 +492,12 @@ export const items: Item[] = [
     probabilityImpact: 3,
     description: "A mysterious horse head mask that increases your luck.",
     image: `${URL_PREFIX}/29.png`,
+    moves: [
+      "Neigh Bash",
+      "Headlong Charge",
+      "Cavalier Crush",
+      "Bridle Break",
+    ],
   },
   {
     id: 30,
@@ -384,6 +511,12 @@ export const items: Item[] = [
     description:
       "A magical cloak that provides balanced improvements to all abilities.",
     image: `${URL_PREFIX}/30.png`,
+    moves: [
+      "Cloak Cut",
+      "Shroud Slash",
+      "Vanish Jab",
+      "Veiled Strike",
+    ],
   },
   {
     id: 31,

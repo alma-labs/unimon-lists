@@ -90,7 +90,13 @@
     "defenseImpact": 0,
     "probabilityImpact": 0,
     "description": "A basic sword made from Swapium that increases attack power.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/9.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/9.png",
+    "moves": [
+      "Swap Slash",
+      "Short Stab",
+      "Swapium Strike",
+      "Blade Exchange"
+    ]
   },
   {
     "id": 10,
@@ -102,7 +108,13 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "A small shield made from Swapium that provides basic protection.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/10.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/10.png",
+    "moves": [
+      "Buckler Bash",
+      "Swap Bash",
+      "Shield Rush",
+      "Guard Break"
+    ]
   },
   {
     "id": 11,
@@ -114,7 +126,13 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "A helmet made from Swapium that provides balanced attack and defense.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/11.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/11.png",
+    "moves": [
+      "Helm Headbutt",
+      "Swap Head Smash",
+      "Helm Ram",
+      "Crown Crush"
+    ]
   },
   {
     "id": 12,
@@ -126,7 +144,13 @@
     "defenseImpact": 0,
     "probabilityImpact": 0,
     "description": "A powerful longsword forged on Layer 2 with enhanced attack capabilities.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/12.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/12.png",
+    "moves": [
+      "Layered Lunge",
+      "L2 Long Cut",
+      "Second Layer Slash",
+      "Chainbreaker"
+    ]
   },
   {
     "id": 13,
@@ -138,7 +162,13 @@
     "defenseImpact": 2,
     "probabilityImpact": 0,
     "description": "A sturdy shield crafted on Layer 2 that provides excellent defense.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/13.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/13.png",
+    "moves": [
+      "Layered Bash",
+      "L2 Shield Slam",
+      "Wall of Two",
+      "Reflective Ram"
+    ]
   },
   {
     "id": 14,
@@ -150,7 +180,13 @@
     "defenseImpact": 2,
     "probabilityImpact": 0,
     "description": "A medium-weight helmet from Layer 2 with good defensive properties.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/14.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/14.png",
+    "moves": [
+      "Layered Headbutt",
+      "L2 Ram",
+      "Medium Head Smash",
+      "Helm Spike"
+    ]
   },
   {
     "id": 15,
@@ -162,7 +198,13 @@
     "defenseImpact": -1,
     "probabilityImpact": 0,
     "description": "A curved sword with high attack power but reduced defense.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/15.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/15.png",
+    "moves": [
+      "Scimmy Slice",
+      "Uni Slash",
+      "Curved Cut",
+      "Pink Riposte"
+    ]
   },
   {
     "id": 16,
@@ -174,7 +216,13 @@
     "defenseImpact": 3,
     "probabilityImpact": 0,
     "description": "A divine shield with exceptional defense but slightly reduced attack.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/16.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/16.png",
+    "moves": [
+      "Divine Bash",
+      "Godshield Slam",
+      "Uni Aegis Crush",
+      "Holy Parry"
+    ]
   },
   {
     "id": 17,
@@ -186,7 +234,13 @@
     "defenseImpact": 3,
     "probabilityImpact": 0,
     "description": "A full coverage helmet providing excellent protection and some attack boost.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/17.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/17.png",
+    "moves": [
+      "Full-Helm Headbutt",
+      "Uni Skull Crash",
+      "Visor Smash",
+      "Ringing Ram"
+    ]
   },
   {
     "id": 18,
@@ -198,7 +252,13 @@
     "defenseImpact": 0,
     "probabilityImpact": -10,
     "description": "A high-risk, high-reward blade with massive attack power but reduced luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/18.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/18.png",
+    "moves": [
+      "Margin Slash",
+      "Lever Lunge",
+      "Liquidation Cut",
+      "Risky Rip"
+    ]
   },
   {
     "id": 19,
@@ -210,7 +270,13 @@
     "defenseImpact": 5,
     "probabilityImpact": -10,
     "description": "A high-risk, high-reward defensive shield with high protection but comes with increased risk.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/19.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/19.png",
+    "moves": [
+      "Margin Bash",
+      "Lever Block Break",
+      "Collateral Crush",
+      "Risk Off Ram"
+    ]
   },
   {
     "id": 20,
@@ -222,7 +288,13 @@
     "defenseImpact": 3,
     "probabilityImpact": -10,
     "description": "High-risk, high-reward protective gear with good stats but negative probability impact.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/20.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/20.png",
+    "moves": [
+      "Hedged Hit",
+      "Balanced Bash",
+      "Guarded Gash",
+      "Risk Pair Slam"
+    ]
   },
   {
     "id": 21,
@@ -234,7 +306,13 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "Adorable cat ears that provide modest attack and defense bonuses.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/21.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/21.png",
+    "moves": [
+      "Cat Claw",
+      "Catex Pounce",
+      "Ear Flick Strike",
+      "Whisker Whip"
+    ]
   },
   {
     "id": 22,
@@ -246,7 +324,13 @@
     "defenseImpact": 2,
     "probabilityImpact": -5,
     "description": "Free armor trimming, you in?",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/22.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/22.png",
+    "moves": [
+      "Rune Headsmash",
+      "Trim Edge Strike",
+      "Rune Ram",
+      "Sigil Slam"
+    ]
   },
   {
     "id": 23,
@@ -258,7 +342,13 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "A simple straw hat that provides basic protection from the elements.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/23.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/23.png",
+    "moves": [
+      "Straw Sweep",
+      "Haymaker",
+      "Brim Bash",
+      "Weave Whip"
+    ]
   },
   {
     "id": 24,
@@ -270,7 +360,13 @@
     "defenseImpact": 1,
     "probabilityImpact": 3,
     "description": "Stylish glasses that improve vision and increase luck in battles.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/24.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/24.png",
+    "moves": [
+      "Mog Gaze",
+      "Lens Lash",
+      "Focus Beam",
+      "Goggles Grind"
+    ]
   },
   {
     "id": 25,
@@ -282,7 +378,13 @@
     "defenseImpact": 0,
     "probabilityImpact": -100,
     "description": "A cursed item that binds your own Unimon's legs, making them unable to move. Guaranteed loss.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/25.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/25.png",
+    "moves": [
+      "Self-Sabotage",
+      "Leg Bind",
+      "Guaranteed Throw",
+      "Cursed Tackle"
+    ]
   },
   {
     "id": 26,
@@ -294,7 +396,13 @@
     "defenseImpact": 1,
     "probabilityImpact": 0,
     "description": "A comfortable saddle that provides stability and minor defensive benefits.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/26.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/26.png",
+    "moves": [
+      "Saddle Slam",
+      "Mount Kick",
+      "Stirrup Strike",
+      "Gallop Gore"
+    ]
   },
   {
     "id": 27,
@@ -306,7 +414,13 @@
     "defenseImpact": 0,
     "probabilityImpact": 1,
     "description": "A classy fedora that makes you look distinguished and slightly luckier. Said to be worn by the king of Reddit.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/27.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/27.png",
+    "moves": [
+      "Brim Slice",
+      "Dapper Jab",
+      "Tip Strike",
+      "Gentleman's Riposte"
+    ]
   },
   {
     "id": 28,
@@ -318,7 +432,13 @@
     "defenseImpact": 2,
     "probabilityImpact": 5,
     "description": "A pink chain that provides protection and brings good fortune.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/28.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/28.png",
+    "moves": [
+      "Chain Whip",
+      "Pink Link Lash",
+      "Chainbreaker",
+      "Rose Bind"
+    ]
   },
   {
     "id": 29,
@@ -330,7 +450,13 @@
     "defenseImpact": 0,
     "probabilityImpact": 3,
     "description": "A mysterious horse head mask that increases your luck.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/29.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/29.png",
+    "moves": [
+      "Neigh Bash",
+      "Headlong Charge",
+      "Cavalier Crush",
+      "Bridle Break"
+    ]
   },
   {
     "id": 30,
@@ -342,7 +468,13 @@
     "defenseImpact": 2,
     "probabilityImpact": 2,
     "description": "A magical cloak that provides balanced improvements to all abilities.",
-    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/30.png"
+    "image": "https://raw.githubusercontent.com/alma-labs/unimon-lists/refs/heads/main/assets/items/30.png",
+    "moves": [
+      "Cloak Cut",
+      "Shroud Slash",
+      "Vanish Jab",
+      "Veiled Strike"
+    ]
   },
   {
     "id": 31,
